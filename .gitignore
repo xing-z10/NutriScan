@@ -1,0 +1,31 @@
+# Raw dataset and downloaded imagery
+n5k/
+data/
+*.png
+*.jpg
+*.jpeg
+*.h264
+
+# Model weights and training outputs
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+runs/
+wandb/
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
