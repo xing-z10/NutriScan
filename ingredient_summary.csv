@@ -1,0 +1,242 @@
+name,n_dishes,total_g,n_ge30
+egg whites,179,43264.333297,144
+chicken,312,37588.691288,188
+scrambled eggs,229,29816.357124,195
+cauliflower,251,22671.210358,134
+broccoli,418,21837.502638,102
+cheese pizza,262,17900.0,129
+fish,188,17388.465612,102
+berries,181,17350.0,112
+caesar salad,185,16713.0,109
+sweet potato,197,15909.32973,68
+carrot,447,15545.645275,80
+pork,181,15154.189049,97
+cherry tomatoes,483,14682.710501,78
+salmon,132,14663.004088,77
+beef,173,13200.023249,67
+apple,174,12904.695806,86
+pineapple,184,12615.896801,64
+roasted potatoes,171,12113.0,60
+squash,208,11253.6298,60
+mixed greens,320,10727.941437,66
+cantaloupe,131,10237.0,76
+corn on the cob,130,10204.79731,79
+watermelon,110,10116.0,44
+white rice,263,9626.513099,33
+grapes,131,9309.42374,72
+arugula,514,9207.946176,46
+brussels sprouts,145,9207.33592,51
+spinach (raw),446,9037.69184,63
+olives,203,8854.234008,46
+sausage,113,8453.0,65
+chicken thighs,102,8263.340606,45
+pears,71,7919.765832,38
+almonds,177,7910.326211,80
+olive oil,1639,7604.498181,0
+pizza,86,7155.0,49
+green beans,158,6876.297737,33
+quinoa,137,6834.829686,28
+honeydew melons,74,6805.0,44
+wheat berry,297,6636.685378,19
+cucumbers,343,6583.099634,18
+steak,70,6574.665221,43
+bok choy,227,6322.507649,31
+bacon,219,6099.435106,70
+tofu,75,6017.0,28
+onions,721,5362.705465,12
+yam,91,5279.865301,34
+eggplant,99,5222.587848,31
+strawberries,73,5139.171562,33
+brown rice,229,4978.873654,9
+lettuce,160,4289.092284,14
+bell peppers,223,4222.054377,9
+chicken breast,52,4114.513287,21
+hash browns,51,4094.992655,27
+mushroom,165,4037.655369,17
+pepperoni pizza,55,4012.0,32
+potatoes,54,4006.626949,37
+grilled chicken,26,3725.0,24
+deprecated,31,3619.0,30
+chicken apple sausage,49,3514.0,22
+kale,210,3363.285529,17
+avocado,58,3279.43733,17
+zucchini,134,3200.796551,12
+eggs,51,3063.676484,25
+tomatoes,156,2756.792245,8
+salsa,50,2722.962331,0
+chard,232,2713.790597,5
+tuna,16,2649.0,12
+oatmeal,13,2551.0,13
+fried rice,31,2486.0,8
+greek yogurt,40,2179.184344,6
+millet,182,2101.952606,0
+milk,31,1981.918754,6
+mustard greens,111,1973.369883,8
+couscous,25,1827.0,8
+asparagus,36,1801.0,9
+bagels,26,1707.4000270000001,15
+vinegar,727,1695.972221,0
+pasta,28,1645.012103,5
+wild rice,15,1577.0,7
+orange,18,1549.1115,11
+cottage cheese,12,1517.0,7
+mandarin oranges,27,1477.0,13
+chickpeas,43,1278.46651,5
+garlic,976,1214.210269,0
+country rice,49,1192.473575,0
+chayote squash,18,1161.0,5
+tuna salad,5,1140.0,5
+turnips,18,1132.875712,5
+,49,1072.088182,9
+tortilla,24,1069.26782,0
+omelets,8,1062.0,8
+ground turkey,18,1056.192659,3
+radishes,117,1036.852183,2
+shallots,410,1020.837337,0
+pepper,728,1001.923491,0
+blueberries,170,993.889543,0
+raspberries,68,993.468112,7
+parmesan cheese,108,990.902336,0
+cabbage,78,975.432636,0
+tatsoi,23,964.475808,0
+mashed potatoes,7,926.6666720000001,7
+turkey bacon,25,916.0,5
+dumplings,7,912.0,7
+cheese,48,887.156901,0
+lentils,23,878.319762,5
+waffles,11,837.9375,5
+lemon juice,595,824.265552,0
+brownies,15,809.0,5
+yogurt,8,806.813549,7
+brisket,5,725.714294,5
+grapefruit juice,3,717.0,3
+caesar dressing,46,715.623228,0
+salt,1460,701.749501,0
+artichokes,40,678.000423,1
+rice noodles,18,666.602365,1
+corn,41,664.7281849999999,1
+turkey,5,650.0,5
+tempeh,3,606.0,3
+blackberries,54,603.677415,3
+white beans,23,594.910313,0
+vinaigrette,83,592.500987,0
+bulgur,38,586.482764,1
+spinach (cooked),154,585.587211,1
+chilaquiles,4,526.0,4
+kimchi,8,522.0,3
+chia seeds,30,516.9537290000001,1
+mozzarella cheese,28,515.951181,0
+parsley,503,468.148992,0
+celery,41,413.229711,1
+sugar,50,412.62529,0
+greek salad,5,395.0,4
+pilaf,7,394.0,2
+granola,46,392.252932,0
+black beans,13,390.870271,0
+frozen yogurt,4,379.0,4
+cream cheese,23,358.675732,1
+parsnips,6,354.0,1
+figs,39,346.931933,0
+curries,2,337.3125,1
+tomatillo,34,336.95363299999997,0
+chicken salad,5,335.0,2
+spaghetti,2,334.0,2
+cream,89,325.763412,0
+mayonnaise,58,325.192447,0
+lasagna,2,320.0,2
+snow peas,33,314.99181799999997,0
+jalapenos,246,313.69614,0
+fruit salad,2,310.0,2
+sandwiches,5,286.0,2
+lime,243,285.556959,0
+hummus,5,283.0,3
+garden salad,10,276.0,4
+walnuts,86,275.371827,0
+soy sauce,122,268.377145,0
+flatbread,5,261.713572,4
+cookies,9,259.0,3
+chili,136,255.289814,1
+vegetable oil,8,244.920642,0
+barley,3,237.0,2
+collards,2,232.0,1
+pasta salad,2,228.0,2
+ketchup,16,212.664931,0
+mustard,377,203.04406,0
+sour cream,55,200.25691,0
+crepes,2,200.0,2
+cilantro,189,198.247975,0
+buttermilk,8,195.936518,0
+mangos,19,193.171224,0
+cod,2,192.0,2
+goat cheese,25,184.953667,0
+water,7,179.934257,0
+succotash,2,168.0,1
+pepperoni,2,156.0,2
+basil,173,147.08634899999998,0
+cranberries,58,146.610601,0
+apple cider,7,140.785212,0
+butter,56,140.399622,0
+shrimp,3,136.226777,2
+celery root,18,134.633868,0
+jicama,28,128.896903,0
+banana with peel,1,124.0,1
+feta cheese,33,120.978717,0
+green onions,119,98.983715,0
+flour,8,97.96826,0
+pumpkin seeds,40,90.319072,0
+plate only,2,87.0,2
+toast,1,84.0,1
+thyme,299,83.198783,0
+wheat bread,1,82.0,1
+hominy,12,81.7116,0
+nopales,27,79.306059,0
+beets,16,76.17597699999999,0
+blue cheese,9,70.365954,0
+orange with peel,1,67.0,1
+pecans,36,64.177526,0
+pesto,9,60.831157999999995,0
+sun dried tomatoes,15,60.348351,0
+pita bread,2,60.0,0
+almond milk,1,59.569225,1
+multigrain bread,6,59.419857,0
+chive,159,57.951017,0
+baby carrots,3,57.0,0
+bread,2,55.550688,1
+broth,7,53.894341,0
+tacos,1,53.0,1
+lamb,1,53.0,1
+rosemary,153,51.896654,0
+edamame,2,49.66282,0
+ginger,89,49.654419,0
+cashews,2,47.906774,0
+honey,7,47.266801,0
+coleslaw,5,46.763107,0
+sourdough bread,3,45.649989999999995,0
+leeks,6,45.24436,1
+syrup,1,38.0625,0
+wine,48,36.257426,0
+croutons,42,30.997963000000002,0
+pickles,13,29.859101,0
+banana,3,29.513393,0
+raisins,8,26.554997,0
+orange juice,33,21.36072,0
+jams,1,16.245434,1
+oats,1,15.980589,0
+cereal,3,15.0,1
+oregano,45,14.593676,0
+pinto beans,1,13.893294,0
+pistachios,3,12.434649,0
+poached eggs,1,12.015748,0
+ice cream cones,2,12.0,1
+sunflower seeds,6,11.920525000000001,0
+white wine,45,11.674938,0
+tortilla chips,6,11.174055000000001,0
+seeds,4,10.741129,0
+barbecue sauce,3,10.175704,0
+brown sugar,1,10.0,0
+bread crumbs,12,6.863144,0
+dates,4,5.82968,0
+endive,3,1.30672,0
+cornmeal,1,0.742469,0
+teriyaki sauce,1,0.240232,0
+lemon,1,0.225631,0
